@@ -6,9 +6,9 @@
 This is my solution to all the programming assignments  of Machine-Learning (Coursera) taught by Sarath Chandar. After completing this course you will get a broad idea of Machine learning algorithms. 
 
 ## Contents
-* Lectures Slides
+* Question pdf for each assignment
 * Solution to programming assignment
-* Solution to Quizzes
+* final reports
 
 ## References
 [[1] Machine Learning - Polytechnique Montreal](https://chandar-lab.github.io/INF8245E/)
